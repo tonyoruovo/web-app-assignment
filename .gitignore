@@ -2,13 +2,11 @@
 /node_modules/
 /client/node_modules/
 /server/node_modules/
-/client/package-lock.json
-/server/package-lock.json
 
 # Client build output
 /client/dist/
 /client/build/
-/client/public/
+/client/package-lock.json
 
 # Server build output
 /server/dist/
@@ -16,6 +14,7 @@
 /server/.env
 /server/logs/
 /server/node_modules/
+/server/package-lock.json
 
 # IDE and editor files
 .vscode/
